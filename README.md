@@ -1,18 +1,16 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="300"/>
-</div>
+Builder | Java & Rust Engineer | Web3 on Sui  
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tihomir-yordanovv/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/tihomiryordanovv/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
+### 🔧 Core Competencies
+- **Banking & Fintech Systems:** Experience with **core banking stacks**, EU regulatory frameworks, payments, risk & compliance.  
+- **Backend Systems:** High-performance services in **Java** and **Rust**.  
+- **Low-Latency Systems:** Event-driven trading logic, concurrency models, and efficient data pipelines.  
 
-- 👋 Hi, I’m Tihomir young and passionate back-end Java developer intent to bekome a full-stack developer. My journey started as a self-lerning at the end of 2020 with the basics of java and python and later I moved to Austria to study for a bachelor degree as a software developer (still in the middle of the study :technologist:). 
+### ⚡ Current Focus
+- Translating **fintech principles** (resilience, compliance, auditability) into Web3 systems.  
+- **Web3 & Sui:** Smart contracts in **Move**, DAO frameworks, identity/reputation systems, treasury & governance.  
+- **Trading & Low-Latency Systems** – designing bots and execution engines in Rust.  
 
-- 👀 Over the years I focused on java development using spring framework 2 (currently spring 3 too), where I lerned step by step spring boot, spring data, spring security and spring cloud. I've also made my first steps in front-end development with a basic student management system using React.js for UI and spring boot for business logic, which you can find in my repositories.
-- 🌱 I’m currently working part time, studing and in my free time learning the full covered developing of microservices including deploing on containers using docker and reactive programming (asynchonous communication) using webflux and rabbitMQ.
-- 💞️ I’m looking to collaborate on all kind of projects to collect as much as possible experiense.
+### 🤝 Open to Collaborate On
+- **Web3 projects on Sui** (identity, governance, DeFi, DAO tooling).  
+- **Trading systems** (low-latency, execution bots, real-time data pipelines).
+- **DeFi Strategies:** Yield optimizers, delta-neutral vaults, on-chain/off-chain arbitrage, automated hedging.  
