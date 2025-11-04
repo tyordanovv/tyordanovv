@@ -1,4 +1,4 @@
-Builder | Java & Rust Engineer | Web3 on Sui  
+Builder | Java & Rust Engineer | Web3 on Sui & Aptos
 
 ### Core Competencies
 - **Banking & Fintech Systems:** Experience with **core banking stacks**, EU regulatory frameworks, payments, risk & compliance.  
