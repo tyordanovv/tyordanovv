@@ -20,6 +20,6 @@ Accademium (https://accademium.com) — Co-founded an AI-driven edtech platform 
 
 Vroom.bg (https://vroom.bg) — Led a 3-engineer team to build and launch a production-grade platform helping users discover car-related businesses. Designed and implemented a custom geospatial search engine (OSM-based, ~44ms avg response), a scalable Business API with role-based access, and a cost-efficient AWS infrastructure for backend and data services.
 
-Autolensio (https://autolensio.com) 
+Autolensio (autolensio.com) — SaaS analytics platform for Bulgarian used car dealers, tracking listing velocity and market trends across automotive marketplaces. Data pipeline ingesting ~240,000 automotive listings/day across multiple platforms, using proxy rotation and anti-bot evasion to operate under rate limits and WAF protections.
 
-WirPadeln (https://wirpadeln.com)
+WirPadeln (wirpadeln.com) — Open alternative to Playtomic, addressing its closed club ecosystem, opaque ratings, and GDPR concerns. 
