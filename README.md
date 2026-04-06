@@ -22,4 +22,4 @@ Vroom.bg (https://vroom.bg) — Led a 3-engineer team to build and launch a prod
 
 Autolensio (https://autolensio.com) 
 
-WirPadeln (https://wirpadenl.com)
+WirPadeln (https://wirpadeln.com)
